@@ -36,12 +36,12 @@ Com mais de 4 anos de experiência sólida no desenvolvimento de sistemas empres
 - Front-end desenvolvido em **TypeScript**.
 - Infraestrutura totalmente modularizada com **Docker** e esteira de integração contínua (CI) configurada via **GitHub Actions**.
 
-**Jupiter Modela — Plataforma de Business Intelligence**
+**Plataforma de Business Intelligence**
 - Desenvolvimento dos serviços e APIs no back-end corporativo com **Java/Spring Boot** e **Python/Flask**.
 - Construção de dashboards interativos no front-end com **Angular** e workflows de ETL complexos para unificar dados de múltiplas fontes heterogéneas.
 
-**JUPITER SISA / MisanRh+**
-- Módulo de relatórios financeiros de faturação para o sistema de gestão hospitalar de âmbito nacional em Angola (Ministério da Saúde).
+**Sistema de Gestão Hospitalar**
+- Módulo de relatórios financeiros de faturação para o sistema de gestão hospitalar de âmbito nacional em Angola.
 - Construído com **PHP (Laravel/Symfony)** e integrado com **Jasper Reports**, resultando numa redução de **60% do esforço manual**.
 
 ---
