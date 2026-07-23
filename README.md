@@ -185,7 +185,7 @@ I believe software engineering is built on:
 # 🤝 Let's Connect
 
 💼 LinkedIn  
-linkedin.com/in/anisiomunda
+[linkedin.com/in/anisiomunda](https://www.linkedin.com/in/an%C3%ADsio-munda-226b00148/)
 
 📧 Email  
 anisiomunda@hotmail.com
