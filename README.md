@@ -1,13 +1,10 @@
 # Anísio Munda 👋
 
-## Founder & Software Engineer @ Foundrix Systems
+## Software Engineer | Specialist in End-to-End Web & Mobile Solutions | Financial Systems & Data Analytics
 
-### Engineering Systems That Matter
+### Engenheiro de Software
 
-Software Engineer specialized in designing and building reliable digital systems, enterprise applications, and scalable software solutions.
-
-📍 Luanda, Angola  
-🌍 Open to international opportunities and remote collaboration
+Engenheiro de Software especializado em projetar e construir sistemas digitais confiáveis, aplicações corporativas e soluções de software escaláveis.
 
 ---
 
@@ -24,7 +21,7 @@ Tenho experiência no desenvolvimento de aplicações para domínios críticos c
 
 Atuo desde a análise de requisitos até a arquitetura, desenvolvimento, integração e entrega de soluções utilizando práticas modernas de engenharia de software.
 
-Como fundador da **Foundrix Systems**, exploro e construo sistemas digitais baseados em:
+Exploro e construo sistemas digitais baseados em:
 
 - Arquitetura de software
 - Código limpo
@@ -55,15 +52,13 @@ I work across the entire software lifecycle:
 - System integration
 - Deployment automation
 
-Through **Foundrix Systems**, I explore engineering practices for building scalable and maintainable digital systems.
+I explore engineering practices for building scalable and maintainable digital systems.
 
 ---
 
-# 🏢 Foundrix Systems
+## Skills
 
-## Engineering Systems That Matter
-
-Foundrix Systems is a software engineering initiative focused on designing and building digital solutions that help organizations improve their operations through technology, architecture, and innovation.
+I´m focused on designing and building digital solutions that help organizations improve their operations through technology, architecture, and innovation.
 
 Areas of interest:
 
@@ -75,7 +70,7 @@ Areas of interest:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 My Projects
 
 ## 🏥 Foundrix Health Platform
 
@@ -172,12 +167,16 @@ I believe software engineering is built on:
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AnisioMunda&show_icons=true&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisioMunda&layout=compact&hide_border=true" />
 
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnisioMunda&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnisioMunda&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -193,5 +192,5 @@ anisiomunda@hotmail.com
 ---
 
 <p align="center">
-<b>Engineering Systems That Matter</b>
+<b>Anísio Munda - Software Enginner</b>
 </p>
