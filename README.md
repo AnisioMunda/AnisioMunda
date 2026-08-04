@@ -72,7 +72,7 @@ Areas of interest:
 
 # 🚀 My Projects
 
-## Frase Motivaciones
+## Frase Motivacionais
 
 Plataforma web para publicação, pesquisa e consulta de frases motivacionais. Utilizadores autenticados podem publicar as suas próprias frases, enquanto qualquer visitante pode pesquisar e navegar pelo conteúdo publicado.
 
