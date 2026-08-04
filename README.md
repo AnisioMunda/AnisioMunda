@@ -72,46 +72,29 @@ Areas of interest:
 
 # 🚀 My Projects
 
-## 🏥 Foundrix Health Platform
+## Frase Motivaciones
 
-Enterprise healthcare management platform designed to demonstrate scalable architecture and digital transformation in healthcare operations.
+Plataforma web para publicação, pesquisa e consulta de frases motivacionais. Utilizadores autenticados podem publicar as suas próprias frases, enquanto qualquer visitante pode pesquisar e navegar pelo conteúdo publicado.
 
-### Focus:
+### Foco:
 
-- Healthcare workflows
-- Enterprise backend architecture
-- Data management
-- Reporting systems
-- Security practices
-
-
+- Consultar frases motivacionais publicadas pela comunidade
+- Pesquisar frases por palavra-chave, autor ou categoria
+- Criar conta e autenticar-se
+- Publicar as suas próprias frases, associadas ao seu perfil de utilizador
 ---
 
-## 💳 Foundrix Billing Platform
+## 🔐 Serviços
 
-Business billing and invoicing platform focused on financial workflows and automation.
+Gestão de Processos e segurança em aplicações críticas
 
-### Focus:
-
-- Business rules
-- Document generation
-- Financial processes
-- System integration
-
-
----
-
-## 🔐 Foundrix Identity Service
-
-Identity and access management service designed for secure enterprise applications.
-
-### Focus:
+### Principais Responsabilidades:
 
 - Authentication
 - Authorization
 - Security architecture
 - API protection
-
+- Microservices
 
 ---
 
