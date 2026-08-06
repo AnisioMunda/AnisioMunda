@@ -72,16 +72,20 @@ Areas of interest:
 
 # 🚀 My Projects
 
-## Frases Motivacionais
+## RISA - Rede Integrada de Saúde de Angola
 
-Plataforma web para publicação, pesquisa e consulta de frases motivacionais. Utilizadores autenticados podem publicar as suas próprias frases, enquanto qualquer visitante pode pesquisar e navegar pelo conteúdo publicado.
+Sistema de Gestão Multihospitalar e Prontuário Eletrônico Unificado (PEU)
 
-### Foco:
+### Funcionalidades Principais:
 
-- Consultar frases motivacionais publicadas pela comunidade
-- Pesquisar frases por palavra-chave, autor ou categoria
-- Criar conta e autenticar-se
-- Publicar as suas próprias frases, associadas ao seu perfil de utilizador
+- 📂 **Prontuário Eletrônico Unificado (PEU):** Histórico clínico global do paciente acessível inter-hospitalar com controle estrito de acesso.
+- 🏢 **Gestão Multihospitalar (Multi-Tenancy):** Administração centralizada e isolada de múltiplos hospitais, clínicas e centros de saúde.
+- 🚑 **Triagem & Emergência:** Sistema Manchester de triagem, fila de atendimento em tempo real via WebSockets.
+- 💊 **Prescrição Médica & Farmácia:** Prescrição eletrônica com verificação de estoque e dispensação assistida.
+- 📅 **Agendamento & Consultas:** Gestão de agendas médicas, consultas presenciais e suporte a telemedicina.
+- 📑 **Emissão de Documentos PDF:** Geração autêntica de relatórios, receitas, atestados e faturas via **iText7**.
+- 📊 **Dashboards Analíticos:** Indicadores hospitalares em tempo real (taxa de ocupação de leitos, tempo médio de espera, fluxo financeiro) com **Chart.js**.
+- 💬 **Comunicação Assíncrona & Notificações:** Sistema de eventos para atualização de exames e alertas clínicos com **RabbitMQ**.
 ---
 
 ## 🔐 Serviços
